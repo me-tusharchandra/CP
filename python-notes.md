@@ -1,1 +1,0 @@
-print('%.2f'%value) is used to get the floating values in case of terminating quotient 
