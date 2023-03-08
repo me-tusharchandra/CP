@@ -1,4 +1,6 @@
 
 .DS_Store
 *.json
-*.dYSM
+
+*.plist
+Codeforces/800/158A-next-round.dSYM/Contents/Resources/DWARF/158A-next-round
